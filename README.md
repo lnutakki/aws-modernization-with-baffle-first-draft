@@ -1,4 +1,4 @@
-## Enabling Enterprise Grade Data Security for PosgreSQL with Baffle 
+## Enabling Enterprise Grade Data Security for PostgreSQL with Baffle 
 
 ## Welcome
 
@@ -20,4 +20,7 @@ Be sure to:
 ## License
 
 This library is licensed under the MIT-0 License. See the LICENSE file.
+
+###
+
 
